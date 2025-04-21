@@ -1,0 +1,7 @@
+[font.normal]
+family = "FiraCodeNerdFont"
+
+[terminal]
+[terminal.shell]
+program = "/usr/bin/zsh"
+args = ["-l", "-c", "zellij"]

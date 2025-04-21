@@ -72,3 +72,5 @@ export SDKMAN_DIR="$HOME/.sdkman"
 # Envman configuration
 [ -s "$HOME/.config/envman/load.sh" ] && source "$HOME/.config/envman/load.sh"
 
+
+eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"
